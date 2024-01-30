@@ -1,0 +1,80 @@
+{
+  "header": {
+    "home": "主页",
+    "about": "关于我们",
+    "cooperate": "国际合作",
+    "customer": "客户",
+    "team": "职员",
+    "contact": "联系我们"
+  },
+  "slider": {
+    "heading1": "Chích Bông",
+    "heading2": "通信和电子商务。",
+    "description": "Chich Bong House Co., Ltd. 确认了其在通讯和电子商务领域的强势地位，为客户提供优质的产品和独特便捷的购物体验。"
+  },
+  "about": {
+    "heading": "关于我们",
+    "description1": "自2013年成立以来，我们已经在越南建立了一个遍布全国的在线销售平台。我们的平台应用了先进的技术在运营和接触客户方面。 ",
+    "description2": "我们的系统在Facebook、Zalo、Tiktok上都有出现，拥有大量的订阅者并且非常紧密。",
+    "item1": "以客户为中心是我们的宗旨，我们总是尽全力为客户提供优质的产品。",
+    "item2": "我们的主要客户群体是年龄在40-65岁以上的越南全境的妇女。",
+    "button": "了解更多"
+  },
+  "cooperate": {
+    "heading": "国际合作",
+    "description1": "越南客户非常喜爱中国制造的产品系列。我们非常希望能够与中国企业合作，向越南客户介绍您们的最佳产品。",
+    "description2": "户介绍您们的最佳产品。",
+    "item1": {
+      "heading": "化妆品",
+      "description": "包括护肤、护发、化妆、皮肤保养、抗衰老、祛斑产品。"
+    },
+    "item2": {
+      "heading": "保健食品",
+      "description": "包括调节内分泌、帮助睡眠、健康减肥产品。"
+    },
+    "item3": {
+      "heading": "药品",
+      "description": "包括草药制品、治疗肌肉骨骼的按摩油。"
+    },
+    "item4": {
+      "heading": "时尚",
+      "description": "包括鞋子、拖鞋、胸罩、丝绸衣服。"
+    },
+    "item5": {
+      "heading": "家居用品",
+      "description": "包括厨房便利用品、厨房用具、家居护理用品。"
+    },
+    "item6": {
+      "heading": "针对老年人的辅助产品",
+      "description": "包括血压警示手环、腰部支撑带、减轻肩颈痛的枕头。"
+    }
+  },
+  "testimonial": {
+    "item1": {
+      "description": "我们确实是一个在越南分销和零售优秀产品的单位。",
+      "name": "单勇",
+      "job": "CEO - of CHFOOD.CN"
+    },
+    "item2": {
+      "description": "กลุ่มลูกค้าของ Chích Bông นั้นพิเศษมาก, พลังซื้อนั้นน่าทึ่งมาก.",
+      "name": "Piyajit Ruckariyapong",
+      "job": "CEO - of Sappe Plc."
+    },
+    "item3": {
+      "description": "Dengan bantuan dari chíchbong, produk-produk Indonesia untuk pertama kalinya disambut dengan sangat baik oleh masyarakat Vietnam.",
+      "name": "Irfan Setiaputra",
+      "job": "President Director & CEO at PT Garuda"
+    }
+  },
+  "team": {
+    "heading": "我们的队伍",
+    "description": "年轻人给老年人带来了许多快乐。"
+  },
+  "contact": {
+    "heading": "联系我们",
+    "description": "CHICH BONG HOUSE CO.,LTD"
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 ChichBong. All Rights Reserved"
+  }
+}

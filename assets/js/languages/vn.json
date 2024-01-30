@@ -1,0 +1,80 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "about": "Về Chúng Tôi",
+    "cooperate": "Hợp Tác Quốc Tế",
+    "customer": "Khách Hàng",
+    "team": "Đội Ngũ",
+    "contact": "Liên hệ"
+  },
+  "slider": {
+    "heading1": "Chích Bông",
+    "heading2": "Truyền Thông & Thương Mại Điện Tử.",
+    "description": "Công ty TNHH Ngôi nhà Chích Bông đã khẳng định vị thế mạnh mẽ của mình trong lĩnh vực truyền thông và thương mại điện tử, mang đến cho khách hàng những sản phẩm chất lượng, trải nghiệm mua sắm độc đáo & thuận tiện."
+  },
+  "about": {
+    "heading": "Về Chúng Tôi",
+    "description1": "Thành lập từ năm 2013, chúng tôi đã xây dựng được một nền tảng bán hàng trực tuyến phủ khắp Việt Nam. Nền tảng của chúng tôi ứng dụng những công nghệ tiên tiến trong vận hành và tiếp cận khách hàng. ",
+    "description2": "Hệ thống của chúng tôi có mặt trên Facebook, Zalo, Tiktok, với lượng subscriber lớn và cực kỳ gắn kết.",
+    "item1": "Với tiêu chí coi khách hàng là trọng tâm, chúng tôi luôn cố gắng hết sức để mang đến những sản phẩm tốt cho khách hàng.",
+    "item2": "Đối tượng khách hàng chính của chúng tôi là phụ nữ ở độ tuổi từ 40-65+, trên toàn lãnh thổ Việt Nam.",
+    "button": "Know More"
+  },
+  "cooperate": {
+    "heading": "Hợp Tác Quốc Tế",
+    "description1": "Khách hàng Việt Nam rất ưa chuộng các dòng sản phẩm sản xuất tại Thái Lan. Chúng tôi rất mong muốn được hợp tác với các doanh nghiệp Thái Lan để giới thiệu đến với những khách hàng Việt Nam các sản phẩm tốt nhất của các bạn.",
+    "description2": "Chúng tôi đặc biệt quan tâm tới các nhóm sản phẩm sau:",
+    "item1": {
+      "heading": "Mỹ phẩm",
+      "description": "Chăm sóc da, tóc, trang điểm, dưỡng da, chống lão hóa, trị nám."
+    },
+    "item2": {
+      "heading": "Thực phẩm chức năng",
+      "description": "Điều hòa nội tiết, hỗ trợ giấc ngủ, giảm cân lành mạnh."
+    },
+    "item3": {
+      "heading": "Dược phẩm",
+      "description": "Các sản phẩm cao, dầu massage trị liệu cơ xương khớp"
+    },
+    "item4": {
+      "heading": "Thời trang",
+      "description": "Giầy, dép, áo ngực, quần áo lụa."
+    },
+    "item5": {
+      "heading": "Đồ gia dụng",
+      "description": "Đồ dùng tiện ích cho nhà bếp, đồ dùng bếp, chăm sóc nhà cửa."
+    },
+    "item6": {
+      "heading": "Các sản phẩm hỗ trợ cho người già",
+      "description": "Vòng cảnh báo huyết áp, đai hỗ trợ lưng, gối giảm đau vai gáy."
+    }
+  },
+  "testimonial": {
+    "item1": {
+      "description": "Thật sự là một đơn vị phân phối sản bán lẻ sản phẩm tuyệt với tại Việt Nam.",
+      "name": "Đơn Dũng",
+      "job": "CEO - of China"
+    },
+    "item2": {
+      "description": "Đối tượng khách hàng của Chích Bông thật là đặc biệt, sức mua thật là khủng khiếp.",
+      "name": "Piyajit Ruckariyapong",
+      "job": "CEO - of Sappe Plc."
+    },
+    "item3": {
+      "description": "Với sự giúp đỡ của chíchbong, các sản indonesia lần đầu được công chúng VN đón nhận rất tốt.",
+      "name": "Irfan Setiaputra",
+      "job": "President Director & CEO at PT Garuda"
+    }
+  },
+  "team": {
+    "heading": "Đội Ngũ",
+    "description": "Những người trẻ tuổi đem lại những niềm vui cho người già."
+  },
+  "contact": {
+    "heading": "Liên Hệ",
+    "description": "Công ty TNHH Ngôi nhà Chích Bông"
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 ChichBong. All Rights Reserved"
+  }
+}
