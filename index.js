@@ -7,7 +7,7 @@ $(function () {
       const iso_code = res.data.iso_code || "VN";
       i18n.init(
         {
-          resGetPath: "assets/js/languages/__lng__.json",
+          resGetPath: "./assets/js/languages/__lng__.json",
           debug: false,
           fallbackLng: "vn",
           load: "unspecific",
