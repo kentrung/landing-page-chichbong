@@ -1,30 +1,22 @@
 $(function () {
-  $.ajax({
-    url: "http://119.82.135.247:3002/api/geolocate",
-    type: "GET",
-  })
-    .done(function (res) {
-      const iso_code = res.data.iso_code || "VN";
-      i18n.init(
-        {
-          resGetPath: "./assets/js/languages/__lng__.json",
-          debug: false,
-          fallbackLng: "vn",
-          load: "unspecific",
-        },
-        function () {
-          $("body").i18n();
-        }
-      );
-      if (iso_code == "CN") {
-        setCurrentLanguage(".china");
-      } else if (iso_code == "TH") {
-        setCurrentLanguage(".thailand");
-      } else {
-        setCurrentLanguage(".vietnam");
-      }
-    })
-    .fail(function () {});
+  i18n.init(
+    {
+      resGetPath: "./assets/js/languages/__lng__.json",
+      debug: false,
+      fallbackLng: "vn",
+      load: "unspecific",
+    },
+    function () {
+      $("body").i18n();
+    }
+  );
+  if (i18n.lng() == "CN") {
+    setCurrentLanguage(".china");
+  } else if (i18n.lng() == "TH") {
+    setCurrentLanguage(".thailand");
+  } else {
+    setCurrentLanguage(".vietnam");
+  }
 
   function configDropdownLanguage(language) {
     if (language === ".thailand") {
