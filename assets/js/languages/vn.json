@@ -70,9 +70,16 @@
     "heading": "Đội Ngũ",
     "description": "Những người trẻ tuổi đem lại những niềm vui cho người già."
   },
-  "contact": {
+ "contact": {
     "heading": "Liên Hệ",
-    "description": "Công ty TNHH Ngôi nhà Chích Bông"
+    "description": "Công ty TNHH Ngôi nhà Chích Bông",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit"
+    }
   },
   "footer": {
     "copyright": "Copyright © 2024 ChichBong. All Rights Reserved"
