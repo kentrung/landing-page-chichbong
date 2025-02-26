@@ -56,12 +56,12 @@
       "job": "CEO - of CHFOOD.CN"
     },
     "item2": {
-      "description": "กลุ่มลูกค้าของ Chích Bông นั้นพิเศษมาก, พลังซื้อนั้นน่าทึ่งมาก.",
+      "description": "Chích Bông 的客户非常独特，购买力极其惊人。",
       "name": "Piyajit Ruckariyapong",
       "job": "CEO - of Sappe Plc."
     },
     "item3": {
-      "description": "Dengan bantuan dari chíchbong, produk-produk Indonesia untuk pertama kalinya disambut dengan sangat baik oleh masyarakat Vietnam.",
+      "description": "在 chíchbong 的帮助下，印尼产品首次受到越南公众的热烈欢迎。",
       "name": "Irfan Setiaputra",
       "job": "President Director & CEO at PT Garuda"
     }
@@ -72,7 +72,14 @@
   },
   "contact": {
     "heading": "联系我们",
-    "description": "CHICH BONG HOUSE CO.,LTD"
+    "description": "CHICH BONG HOUSE CO.,LTD",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮件",
+      "subject": "主题",
+      "message": "留言",
+      "submit": "提交"
+    }
   },
   "footer": {
     "copyright": "Copyright © 2024 ChichBong. All Rights Reserved"
