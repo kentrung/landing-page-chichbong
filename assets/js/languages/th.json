@@ -61,7 +61,7 @@
       "job": "CEO - of Sappe Plc."
     },
     "item3": {
-      "description": "Dengan bantuan dari chíchbong, produk-produk Indonesia untuk pertama kalinya disambut dengan sangat baik oleh masyarakat Vietnam.",
+      "description": "ด้วยความช่วยเหลือจาก Chích Bông, ผลิตภัณฑ์ของอินโดนีเซียได้รับการต้อนรับอย่างดีจากชุมชนเวียดนามเป็นครั้งแรก",
       "name": "Irfan Setiaputra",
       "job": "President Director & CEO at PT Garuda"
     }
@@ -72,7 +72,14 @@
   },
   "contact": {
     "heading": "ติดต่อ",
-    "description": "CHICH BONG HOUSE CO.,LTD"
+    "description": "CHICH BONG HOUSE CO.,LTD",
+    "form": {
+      "name": "ชื่อ",
+      "email": "อีเมล",
+      "subject": "หัวข้อ",
+      "message": "ข้อความ",
+      "submit": "ส่ง"
+    }
   },
   "footer": {
     "copyright": "Copyright © 2024 ChichBong. All Rights Reserved"
